@@ -43,6 +43,6 @@ Analyzed the impact of job and environment satisfaction on attrition
 Compared average income across education fields
 Visualized overall workforce distribution and key HR KPIs
 
-6.Screenshots
+5. Screenshots
 
 Show what the dashboard looks like-!(https://github.com/SahilSingh0220/HR-DASHBORAD/blob/main/HR%20DASHBOARD%20SNAPSHOT.png)
