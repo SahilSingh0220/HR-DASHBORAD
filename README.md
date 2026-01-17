@@ -44,4 +44,4 @@ Compared average income across education fields
 Visualized overall workforce distribution and key HR KPIs
 
 6.Screenshots
-Show what the dashboard looks like-https://github.com/SahilSingh0220/HR-DASHBORAD/blob/main/HR%20DASHBOARD%20SNAPSHOT.png
+Show what the dashboard looks like-!(https://github.com/SahilSingh0220/HR-DASHBORAD/blob/main/HR%20DASHBOARD%20SNAPSHOT.png)
