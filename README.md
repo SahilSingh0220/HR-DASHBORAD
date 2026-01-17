@@ -4,9 +4,13 @@ This project is an interactive HR Analytics Dashboard built using Power BI and E
 2.Tech Stack
 
 The dashboard was built using the following tools and technologies:
+
 • 📊 Power BI Desktop – Main data visualization platform used for report creation.
+
 • 📂 Power Query – Data transformation and cleaning layer for reshaping and preparing the data.
+
 📝 Data Modeling – Relationships established among tables (resorts, snow, and data_dictionary) to enable cross-filtering and aggregation.
+
 • 📁 File Format – .pbix for development and .png for dashboard previews.
 
 3.Data Source:
